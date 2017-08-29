@@ -1,20 +1,14 @@
-A First Level Header
+SkypeMarket
 ====================
 
-A Second Level Header
+SIte za nesto sa Skajpom    
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
-
-The quick brown fox jumped over the lazy
-dog's back.
-
+Ovo ce biti najljepsi i najgluplji site na svijetu
 ### Header 3
 
-> This is a blockquote.
+> zbog karaktera tvoraca
 > 
-> This is the second paragraph in the blockquote.
+> 
 >
-> ## This is an H2 in a blockquote
+> ## cmokic
